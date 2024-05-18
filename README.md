@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Observational+Astrophysicist;Research+Scholar+@IUCAA;see+my+personal+webpage;https://eshitaban18.github.io/eshitab/"></a>
 </p>
 
-## <img src="./gifs/rocket.webp" width = 40px />  About me
+## <img src="./gifs/rocket.webp" width = 60px />  About me
 
 <img align="right" src="./gifs/girl_coder.gif" width = 250px>
 
@@ -13,7 +13,7 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?user=pNvsLn0AAAAJ&hl=en&authuser=1)
 - 💬 Mail me at: eshitaban18@iucaa.in
 
-## <img src="./gifs/rocket.webp" width = 40px /> Have a look at my [personal webpage](https://eshitaban18.github.io/eshitab/)
+## Have a look at my [personal webpage](https://eshitaban18.github.io/eshitab/) <img align="center" src="./gifs/look.gif" width = 250px>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
