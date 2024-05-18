@@ -79,4 +79,6 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
   </p>
 </div>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitaban18&theme=tokyonight)
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px />  Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitaban18&theme=tokyonight)
