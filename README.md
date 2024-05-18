@@ -34,17 +34,18 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    </kbd>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+   </kbd>
     <kbd>
-      <kbd>Operating systems</kbd>
+      <kbd>Operating systems and Window managers</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/170px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+      <img width="30px" src="./gifs/bspwm.webp" />
     </kbd>
     <kbd>
       <kbd>Data Analysis</kbd>
@@ -53,30 +54,26 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
       <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="30px" src="https://raw.githubusercontent.com/yt-project/yt/main/doc/source/_static/yt_logo.png" />
+      <img width="30px" src="https://scipy.org/images/logo.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      <img width="30px" src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" />
-    </kbd>
+      </kbd>
     <kbd>
       <kbd>Tools & IDEs</kbd>
       <br>
       <br>
-      <img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+      <img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://scipy.org/images/logo.svg" />
-      <img width="35px" src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
   </kbd>
   </p>
