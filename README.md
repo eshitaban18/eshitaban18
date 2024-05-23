@@ -33,7 +33,8 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
@@ -48,16 +49,6 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
       <img width="30px" src="./gifs/bspwm.webp" />
     </kbd>
     <kbd>
-      <kbd>Data Analysis</kbd>
-      <br>
-      <br>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="30px" src="https://scipy.org/images/logo.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    </kbd>
-    <kbd>
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
@@ -65,17 +56,28 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter Univer
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
       </kbd>
+        <kbd>
+      <kbd>Data Analysis</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      <img width="30px" src="https://scipy.org/images/logo.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    </kbd>
+    <!---
     <kbd>
       <kbd>Tools & IDEs</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-      <img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
   </kbd>
+    -->
   </p>
 </div>
 
