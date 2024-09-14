@@ -7,7 +7,7 @@
 
 <img align="right" src="./gifs/girl_coder.gif" width = 250px>
 
-I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India. My research interests lie in the field of extragalactic astronomy. Utilizing advanced spectroscopy and imaging techniques, I delve into the evolutionary processes of galaxies, which serve as the fundamental "building-blocks" of our universe.
+I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India. My research interests lie in the field of extragalactic astronomy. Utilizing advanced spectroscopy and imaging techniques, I delve into the evolutionary processes of galaxies: the fundamental "building-blocks" of our universe.
 
 - `Expertise`:  Data Analysis and Visualization, High-Performance Computing (HPC), Photoionization modeling, scientific writing 
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?user=pNvsLn0AAAAJ&hl=en&authuser=1)
